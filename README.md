@@ -23,14 +23,16 @@ This project implements an **Integer List Abstract Data Type (ADT)** in C using 
 
 ## Cleaning Up
 
-To remove the compiled files:
-```bash
-make clean
+- To remove the compiled files: 
+   ```bash
+   make clean
 
 ## Notes
 
 - Ensure the program compiles with `gcc` using the `-std=c99` flag.
 - The program must run without memory leaks, testable using `valgrind` on `program_name`.
+
+
 
 
 
